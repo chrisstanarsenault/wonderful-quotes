@@ -1,4 +1,6 @@
-# wonderful-quotes
+# Wonderful Quotes
+
+## A first draft simple Quote maker made with Vue to practice my learning of components and data and prop passing
 
 ## Project setup
 ```
